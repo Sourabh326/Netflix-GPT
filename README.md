@@ -1,6 +1,12 @@
 # Netflix GPT
     - Create react app
     - Configure tailwind css
+    - Header
+    - Login/Signup
+    - Form validation
+    - useRef hook
+    - Firebase setup
+    - Deploying app to production
 
 
 # Feature
